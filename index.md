@@ -22,11 +22,16 @@ Create, facilitate, and maintain the process and global concept documentation ac
 
 ## Tech Skills
 
-Agile Scrum/Kanban methodologies  
-.NET Core / .NET Framework  
-Entity Framework  
-REST APIs  
-Web API  
-Oracle SQL  
-Azure DevOps Server  
-Git   
+- Agile Scrum/Kanban methodologies  
+- .NET Core  
+- .NET Framework  
+- REST APIs  
+- Oracle SQL  
+- Azure  
+- Git   
+
+## GitHub Projects
+- [Blazor e-Commerce](https://github.com/luisroza/BlazorEcommerce)
+- [Simple WebApi](https://github.com/luisroza/InventoryApi)
+- [MVC Store](https://github.com/luisroza/StoreWebApi)
+- [Small Testing project](https://github.com/luisroza/SeleniumBDDTesting)
